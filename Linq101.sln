@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI", "Linq101\ConsoleUI.csproj", "{E3A5061D-4FEF-4059-A3BD-F55F8352625E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleUI", "Linq101\ConsoleUI.csproj", "{E3A5061D-4FEF-4059-A3BD-F55F8352625E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormUI", "FormUI\FormUI.csproj", "{922062B2-BA2A-49AA-8F35-A7D5BF1B2484}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqLibrary", "LinqLibrary\LinqLibrary.csproj", "{5FB1DCFE-E530-4A8B-9EC1-5772765FE15C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqLibrary", "LinqLibrary\LinqLibrary.csproj", "{5FB1DCFE-E530-4A8B-9EC1-5772765FE15C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormUI", "FormUI\FormUI.csproj", "{1D6D8F3A-6A92-4DC2-A899-F593330A9E0A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,14 +19,14 @@ Global
 		{E3A5061D-4FEF-4059-A3BD-F55F8352625E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3A5061D-4FEF-4059-A3BD-F55F8352625E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3A5061D-4FEF-4059-A3BD-F55F8352625E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{922062B2-BA2A-49AA-8F35-A7D5BF1B2484}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{922062B2-BA2A-49AA-8F35-A7D5BF1B2484}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{922062B2-BA2A-49AA-8F35-A7D5BF1B2484}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{922062B2-BA2A-49AA-8F35-A7D5BF1B2484}.Release|Any CPU.Build.0 = Release|Any CPU
 		{5FB1DCFE-E530-4A8B-9EC1-5772765FE15C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5FB1DCFE-E530-4A8B-9EC1-5772765FE15C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FB1DCFE-E530-4A8B-9EC1-5772765FE15C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FB1DCFE-E530-4A8B-9EC1-5772765FE15C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D6D8F3A-6A92-4DC2-A899-F593330A9E0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D6D8F3A-6A92-4DC2-A899-F593330A9E0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D6D8F3A-6A92-4DC2-A899-F593330A9E0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D6D8F3A-6A92-4DC2-A899-F593330A9E0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
